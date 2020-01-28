@@ -1,0 +1,25 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "event_call_overdose": "npx ts-node ./event_call_overdose.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/ts-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/ts-playground/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/ts-playground#readme",
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}

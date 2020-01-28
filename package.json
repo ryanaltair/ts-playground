@@ -6,6 +6,7 @@
   "scripts": {
     "event_call_overdose": "npx ts-node ./event_call_overdose.ts",
     "hello_world": "npx ts-node ./hello_world.ts",
+    "readable_steam": "npx ts-node ./readable_steam.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
